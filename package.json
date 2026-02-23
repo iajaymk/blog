@@ -9,9 +9,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "embla-carousel-react": "^8.6.0",
+    "graphql": "^16.12.0",
+    "graphql-request": "^7.4.0",
+    "html-react": "^0.0.20",
+    "html-react-parser": "^5.2.17",
+    "install": "^0.13.0",
+    "moment": "^2.30.1",
     "next": "16.1.6",
+    "npm": "^11.10.1",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "sass": "^1.97.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
